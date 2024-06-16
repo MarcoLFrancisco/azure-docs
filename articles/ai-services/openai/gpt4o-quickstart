@@ -1,14 +1,14 @@
 ---
-title: 'Quickstart: Use GPT-4 Turbo with Vision on your images and videos with the Azure OpenAI Service'
+title: 'Quickstart: Use GPT-4o with the Azure OpenAI Service'
 titleSuffix: Azure OpenAI
-description: Use this article to get started using Azure OpenAI to deploy and use the GPT-4 Turbo with Vision model. 
+description: Use this article to get started using Azure OpenAI to deploy and use the GPT-4o model. 
 services: cognitive-services
 manager: nitinme
 ms.service: azure-ai-openai
 ms.custom: devx-track-python
 ms.topic: quickstart
-author: PatrickFarley
-ms.author: pafarley
+author: MarcoLFrancisco
+ms.author: mfrancisco
 ms.date: 11/02/2023
 zone_pivot_groups: openai-quickstart-gpt-v
 ---
