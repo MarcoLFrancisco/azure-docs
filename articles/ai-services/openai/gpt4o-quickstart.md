@@ -3,13 +3,13 @@ title: 'Quickstart: Use GPT-4o with the Azure OpenAI Service'
 titleSuffix: Azure OpenAI
 description: Use this article to get started using Azure OpenAI to deploy and use the GPT-4o model. 
 services: cognitive-services
-manager: nitinme
+manager: mfrancisco
 ms.service: azure-ai-openai
 ms.custom: devx-track-python
 ms.topic: quickstart
 author: MarcoLFrancisco
 ms.author: mfrancisco
-ms.date: 11/02/2023
+ms.date: 16/06/2024
 zone_pivot_groups: openai-quickstart-gpt-v
 ---
 
